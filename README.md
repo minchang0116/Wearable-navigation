@@ -506,6 +506,8 @@
 
 ![image](https://user-images.githubusercontent.com/36808530/121849448-4c732d00-cd26-11eb-86db-b2387db6d5f7.png)
 
+<video src="./README/결과영상.mp4"></video>
+
 1️⃣ **결과 분석**
   - 디바이스에서 핫 워드를 인식하고 STT를 이용해서 음성 명령을 처리할 수 있다.
   - 목적지와 현재 좌표를 AWS에 전송하면 카카오 API를 통해 현재 위치에서 반경 10km 내에 있는 목적지의 좌표를 가져와 처리되는 유연성을 지니고 있다.
