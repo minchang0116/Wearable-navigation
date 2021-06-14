@@ -68,7 +68,7 @@
      (3-2) 외부 ip에서 접속하기 위해 포트포워딩 </br>
     ![image](https://user-images.githubusercontent.com/36808530/121847759-0c12af80-cd24-11eb-8969-81710b326367.png)
 
-3. 라즈베리파이와 서버의 소켓 통신
+3. 라즈베리파이와 서버의 소켓 통신</br>
   (1) 라즈베리파이 - client.py
 
    ```python
