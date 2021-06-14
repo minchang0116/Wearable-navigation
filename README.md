@@ -1,6 +1,8 @@
 
 
+
 ### 개발기간 
+
 2019년 3월 27일 ~ 2019년 6월 23일
 ### 팀원
 
@@ -506,7 +508,7 @@
 
 ![image](https://user-images.githubusercontent.com/36808530/121849448-4c732d00-cd26-11eb-86db-b2387db6d5f7.png)
 
-<video src="./README/결과영상.mp4"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SuNq-Gi_U3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1️⃣ **결과 분석**
   - 디바이스에서 핫 워드를 인식하고 STT를 이용해서 음성 명령을 처리할 수 있다.
